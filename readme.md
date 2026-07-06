@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" style="width: 100%; max-width: 800px; height: auto;" alt="HashHound Pro Logo">
+  <img src="assets/logo1.png" style="width: 100%; max-width: 800px; height: auto;" alt="HashHound Pro Logo">
 </p>
 
 # 🐕‍🦺 HashHound Pro v1.0 – Hash Finder + Auto Cracker
