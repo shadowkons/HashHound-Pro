@@ -1,0 +1,6 @@
+# HashHound relies exclusively on Python's built-in standard libraries.
+# No external modules are required to run this script.
+# 
+# Prerequisites:
+# - Python 3.x
+# - Hashcat (installed on the system and added to PATH)
