@@ -82,11 +82,11 @@ HashHound Pro is a high-performance, modular Python utility built for security r
 
 > 🔴 **HashHound Pro Startup & Analysis**
 > *(Signature ASCII banner and format identification table)*
-> <img width="977" height="468" alt="Interface Screenshot" src="https://placeholder-link-to-your-image.com/1.png" />
+> <img width="977" height="468" alt="Interface Screenshot" src="Assets/Logo2.png" />
 > 
-> 🔴 **Live Hashcat Execution**
-> *(Subprocess bridge executing a local dictionary attack)*
-> <img width="1054" height="360" alt="Cracking Screenshot" src="https://placeholder-link-to-your-image.com/2.png" />
+> 🔴 **Main Menu**
+> *(The Main menu shows the features of the tool)*
+> <img width="1054" height="360" alt="Main Menu" src="Assets/Logo1.png" />
 
 ---
 
